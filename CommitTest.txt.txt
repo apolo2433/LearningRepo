@@ -1,1 +1,10 @@
-this is some text
+Mica	   3
+Nemanja    4
+Gosa	   3
+Srdjo      4
+
+mica nemanja 1 0
+gosa srdjo   4 2
+nemanja gosa 1 0
+srdjo mica   3 2
+srdjo nemanj 0 0
