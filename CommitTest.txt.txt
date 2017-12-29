@@ -8,3 +8,5 @@ gosa srdjo   4 2
 nemanja gosa 1 0
 srdjo mica   3 2
 srdjo nemanj 0 0
+
+dasdsa
